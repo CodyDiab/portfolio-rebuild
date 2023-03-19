@@ -33,10 +33,18 @@ Completed full lifecycle application development to enterprise business applicat
 
 ### General Tech Stacks
 - Desktop App Development
+- Pardot Development 
+- HubSpot Development 
 - Web Development (Frontend & Backend)
+- Wordpress 
+- Webflow
+
 
 ### Programming languages
 
+- CSS
+  - SASS
+  - Tailwind
 - JavaScript/TypeScript
   - React.js
 - T-SQL
